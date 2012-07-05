@@ -1,0 +1,28 @@
+.playlist-bar-item {
+    display: block;
+}
+
+.playlist-bar-item a {
+    width: 100%;
+    height: 32px;
+}
+
+.playlist-bar-item .count {
+    line-height: 32px;
+    height: 32px;
+}
+
+.playlist-bar-item a .video-thumb {
+    width: 32px;
+    height: 32px;
+}
+
+.playlist-bar-item .now-playing {
+    display: none;
+}
+
+.playlist-bar-item .title {
+    width: 100%;
+    top: 5px;
+    left: 67px;
+}
