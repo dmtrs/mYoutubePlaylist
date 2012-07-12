@@ -2,4 +2,4 @@ mYoutubePlaylist
 ================
 
 An alternative CSS for youtube playlists
-![Githalytics](http://3.bp.blogspot.com/-VR53tayzfQU/T3EQkH595yI/AAAAAAAALEY/o0tnLb82opQ/s1600/ObamaWhatevah.jpg)
+![Githalytics](http://26.media.tumblr.com/tumblr_lxrip5naCj1qd5525o1_500.gif)
